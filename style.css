@@ -224,17 +224,6 @@ font-size:32px;
   box-shadow: 0 30px 70px rgba(0,0,0,0.35);
 }
 
-
-
-a{
-    font-family: 'Playfair Display', serif;
-    font-size: 19px;
-    padding: 6px;
-}
-
-.jl{
-    margin-left: 30px;
-}
     .card::before{
   content: "";
   position: absolute;
